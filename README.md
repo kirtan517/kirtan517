@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=kirtan517&label=PROFILE+VIEWS)
+![Static Badge](https://img.shields.io/badge/Interested-AI-AI)
+![Static Badge](https://img.shields.io/badge/Love-Maths%2FProgramming-Maths%2FProgramming?color=%239370DB)
+![Static Badge](https://img.shields.io/badge/Learning-Rust-Rust?color=E4D00A)
+
+
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">        
@@ -33,7 +39,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=kirtan517&label=PROFILE+VIEWS)
+
 
 
 <img  width="800px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
