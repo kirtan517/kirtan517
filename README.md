@@ -16,7 +16,7 @@
           🔭 &nbsp; I am currently studying at <strong>University of Waterloo</strong>.
         </li>
         <li>
-          🌱 &nbsp; I’m currently learning about Stochastic Processes and Computer Networks.
+          🌱 &nbsp; I’m currently learning about Operating System.
         </li>
         <li>
           👨🏻‍💻 &nbsp; I'm currently working on creating a notetaking application for iPad.
